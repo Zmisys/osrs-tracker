@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "WebFetch(domain:secure.runescape.com)",
+      "WebFetch(domain:oldschool.runescape.wiki)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(curl:*)",
+      "WebFetch(domain:gist.github.com)",
+      "Bash(python gen.py:*)",
+      "Bash(python -c:*)",
+      "Bash(python:*)",
+      "WebFetch(domain:corsproxy.io)",
+      "WebFetch(domain:api.allorigins.win)",
+      "WebFetch(domain:api.codetabs.com)",
+      "WebFetch(domain:prices.runescape.wiki)",
+      "WebFetch(domain:api.osrsbox.com)"
+    ]
+  }
+}
