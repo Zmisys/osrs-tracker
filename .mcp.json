@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "osrs-wiki": {
+      "command": "C:\\Users\\Windows 11 Home\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+      "args": ["Z:\\osrs\\osrs-wiki-mcp\\server.py"]
+    }
+  }
+}
